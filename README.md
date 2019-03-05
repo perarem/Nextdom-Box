@@ -1,10 +1,10 @@
 # **Nextdom Box** #
 
-For Odriod C2 with UPS module and ATXRaspi
-For Odroid C2 with ATXRaspi
-For Odroid C2
-For Raspberry PI3 with eMMC and ATXRaspi
-For Raspberry PI3 with eMMC
-For Raspberry PI3 with ATXRaspi
-For Raspberry PI3
+- Pour Odriod C2 avec module UPS et ATXRaspi
+- Pour Odroid C2 avec ATXRaspi
+- Pour Odroid C2
+- Pour Raspberry PI3 avec eMMC et ATXRaspi
+- Pour Raspberry PI3 avec eMMC
+- Pour Raspberry PI3 avec ATXRaspi
+- Pour Raspberry PI3
 
