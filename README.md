@@ -3,8 +3,8 @@
 - Pour Odriod C2 + eMMC avec modules UPS3 et ATXRaspi
 - Pour Odroid C2 + eMMC avec module ATXRaspi
 - Pour Odroid C2 + eMMC
-- Pour Raspberry PI3 avec modules x850 eSATA-SSD et ATXRaspi
-- Pour Raspberry PI3 avec module x850 eSATA-SSD
+- Pour Raspberry PI3 avec modules x850-V3 mSATA-SSD et ATXRaspi
+- Pour Raspberry PI3 avec module x850-v3 mSATA-SSD
 - Pour Raspberry PI3 + micro SD avec module ATXRaspi
 - Pour Raspberry PI3 + micro SD
 
@@ -29,3 +29,5 @@ Poussoir/Voyant : [Lien AliExpress](https://fr.aliexpress.com/item/5-pcs-1-set-1
 
 Vis M2 * 5mm (pour
 fixation voyant) : [Lien AliExpress](https://fr.aliexpress.com/item/80pcs-M2-Phillips-head-micro-screws-round-head-self-tapping-electronic-small-screws-Black-zinc-Hard/32596628894.html?tt=sns_none&aff_platform=default&cpt=1553463495649&sk=cqR0G3XT&aff_trace_key=6cd64947a310436f86d01a59c2e1361b-1553463495649-09382-cqR0G3XT&terminal_id=22143a693411460e8c4ca25943266ec1)
+
+ATXRaspi : [LowPowerLab](https://lowpowerlab.com/shop/product/91)
